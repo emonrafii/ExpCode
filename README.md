@@ -13,4 +13,4 @@ ExpCode is a React Native app that allows users to input any kind of code and ou
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ExpCode.git
+   git clone https://github.com/emonrafii/ExpCode.git
