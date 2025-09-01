@@ -1,2 +1,16 @@
 # ExpCode
-ExpCode is a React Native app that helps you understand any code you enter. It explains what the code does, the algorithm behind it, and its time and space complexity. Perfect for learners and developers who want quick code insights on their phone.
+
+ExpCode is a React Native app that allows users to input any kind of code and outputs an explanation of the code, the underlying algorithm, and its time and space complexities.
+
+## Features
+
+- Input code in multiple programming languages
+- Explain the logic and algorithm behind the code
+- Provide time and space complexity analysis
+- User-friendly mobile interface built with React Native
+
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/ExpCode.git
